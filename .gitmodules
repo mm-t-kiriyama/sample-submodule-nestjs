@@ -1,0 +1,3 @@
+[submodule "sample-nestjs-app"]
+	path = sample-nestjs-app
+	url = https://github.com/mm-t-kiriyama/sample-nestjs-app
